@@ -10,11 +10,13 @@ This dataset contains 150 samples, each sample is caracterized by 4 attributes.
 ### Scatter Matrix
 ![Scatter Matrix](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/ScatterMatrix.png)
 
+## Results
 Note that after each execution the results may variate, below is the result that I obtained :
-## Accuracy
+
+### Accuracy
 ![Accuracy](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/Accuracy.png)
 
-## Confusion Matrix
+### Confusion Matrix
 ![Confusion Matrix](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/ConfusionMatrix.png)
 
 
