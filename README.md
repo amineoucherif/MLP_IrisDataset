@@ -5,9 +5,11 @@ This dataset contains 150 samples, each sample is caracterized by 4 attributes.
 
 ## Quick Data Visualization
 <p align="center">###### Histograms</p>
+
 ![Histograms](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/Histograms.png)
 
 <p align="center">###### Scatter Matrix</p>
+
 ![Scatter Matrix](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/ScatterMatrix.png)
 
 Note that after each execution the results may variate, below is the result that I obtained :
