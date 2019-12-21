@@ -4,9 +4,8 @@ Here we are generating a machine learning algorithm based on the MLP artificial 
 This dataset contains 150 samples, each sample is caracterized by 4 attributes.
 
 ## Quick Data Visualization
-<div style="text-align:right">### Histograms
+### Histograms
 ![Histograms](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/Histograms.png)
-</div>
 
 ### Scatter Matrix
 ![Scatter Matrix](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/ScatterMatrix.png)
