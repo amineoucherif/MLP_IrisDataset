@@ -20,7 +20,7 @@ Note that after each execution the results may variate, below represents the res
 ![Confusion Matrix](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/ConfusionMatrix.png)
 
 ## Conclusion
-Till now, here is draft and will keep optimizing it.
+Till now, here is a draft and will return optimizing it.
 
 
 
