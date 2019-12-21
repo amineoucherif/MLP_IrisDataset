@@ -11,7 +11,7 @@ This dataset contains 150 samples, each sample is caracterized by 4 attributes.
 ![Scatter Matrix](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/ScatterMatrix.png)
 
 ## Results
-Note that after each execution the results may variate, below is the result that I obtained :
+Note that after each execution the results may variate, below represents the result obtained in a specific execution.
 
 ### Accuracy
 ![Accuracy](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/Accuracy.png)
