@@ -22,8 +22,7 @@ Note that after each execution the results may variate, below represents the res
 ## Conclusion
 We observe that using MLP architecture on Iris dataset permits the obtention of persuasive results.
 
-###### Sources:
-[Iris dataset]
-https://archive.ics.uci.edu/ml/datasets/iris
+###### Bibliography
+Iris dataset : https://archive.ics.uci.edu/ml/datasets/iris
 
 
