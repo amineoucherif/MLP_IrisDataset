@@ -22,7 +22,7 @@ Note that after each execution the results may variate, below represents the res
 ![Confusion Matrix](https://github.com/amineoucherif/MLP_IrisDataset/blob/master/ConfusionMatrix.png)
 
 ## Conclusion
-We observe that using MLP architecture on Iris dataset permits the obtention of persuasive results.
+We observe that using MLP architecture on Iris dataset permited the obtention of persuasive results.
 
 ###### Bibliography
 Iris dataset : https://archive.ics.uci.edu/ml/datasets/iris
